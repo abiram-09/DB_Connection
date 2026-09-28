@@ -1,0 +1,18 @@
+# Java compiled files
+*.class
+
+# Build output
+build/
+bin/
+target/
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
